@@ -1,6 +1,7 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+*.VC.db
 # Compiled Object files
 *.slo
 *.lo
@@ -45,7 +46,7 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
-
+*.bin
 # Builds
 Build/*
 
